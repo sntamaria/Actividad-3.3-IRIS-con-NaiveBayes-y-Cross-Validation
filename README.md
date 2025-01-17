@@ -1,0 +1,1 @@
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/sntamaria/Actividad-3.3-IRIS-con-NaiveBayes-y-Cross-Validation/blob/main/Maria_de_los_Angeles_Martin_de_la_Cruz_Actividad_3_3_–_IRIS_con_NaiveBayes_y_Cross_Validation_.ipynb)
